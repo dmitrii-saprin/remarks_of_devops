@@ -20,7 +20,7 @@
 
 ### Основы архитектуры ОС
 
-10. Как работает виртуальная память в Linux? Что такое page fault и как его диагностировать?
+10. [Как работает виртуальная память в Linux? Что такое page fault и как его диагностировать?](https://github.com/dmitrii-saprin/Preparation/blob/master/articles/answers/linux/10.md)
 11. Что такое модули ядра, и как вы добавляете или отключаете их в production?
 
 ## Сети в Linux
