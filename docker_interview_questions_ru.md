@@ -61,4 +61,4 @@
 36. Как реализовать rootless Docker и зачем это нужно в production-среде?
 37. Как оптимизировать производительность Docker-контейнеров в условиях высокой нагрузки (например, 10k запросов/с)?
 38. Как вы анализируете и устраняете проблемы с нехваткой ресурсов (CPU, память) в Docker-контейнерах?
-39. Что такое Container Runtime Socket, и для чего он используется?
+[39. Что такое Container Runtime Socket, и для чего он используется?](https://github.com/dmitrii-saprin/Preparation/blob/master/articles/answers/docker/39.md)
